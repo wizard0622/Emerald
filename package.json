@@ -1,15 +1,15 @@
 {
   "author": "WeAreAthlon <hello@weareathlon.com> (https://www.weareathlon.com)",
-  "name": "@weareathlon/frontend-webpack-boilerplate",
+  "name": "@weareathlon/webpack-boilerplate-trial",
   "version": "5.8.0",
   "description": "Starter project template boilerplate based on Webpack with SASS/PostCSS and babel ES6/7 support.",
-  "homepage": "https://github.com/WeAreAthlon/frontend-webpack-boilerplate#readme",
+  "homepage": "https://github.com/WeAreAthlon/webpack-boilerplate-trial#readme",
   "browserslist": [
     "last 2 versions",
     "> 5%"
   ],
   "bugs": {
-    "url": "https://github.com/WeAreAthlon/frontend-webpack-boilerplate/issues",
+    "url": "https://github.com/WeAreAthlon/webpack-boilerplate-trial/issues",
     "email": "plamen@athlonsofia.com"
   },
   "contributors": [
@@ -68,7 +68,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:WeAreAthlon/frontend-webpack-boilerplate.git"
+    "url": "git@github.com:WeAreAthlon/webpack-boilerplate-trial.git"
   },
   "scripts": {
     "build": "webpack --config configuration/webpack.dev.config.js --mode=development",
